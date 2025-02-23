@@ -2,7 +2,7 @@
 
 Easily scan QR codes using this simple and efficient app, built with **React Native** and **Expo**. Whether you're scanning product codes, links, or payment QR codes, this app handles them all.
 
-[Explore the App (coming soon)](#)
+[Explore the App]([text](https://drive.google.com/file/d/1-FUCbVOczAaQ5U9Lsj157HWGos1tfIEP/view?usp=drivesdk))
 
 ### 🔰 How it works
 
