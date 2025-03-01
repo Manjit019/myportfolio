@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 	<loc>https://manjitportfolio.netlify.app/</loc>
@@ -9,7 +9,7 @@
 	</url>
 
 	<url>
-	<loc>https://manjitportfolio.netlify.app/Manjit&apos;s%20Resume.pdf</loc>
+	<loc>https://manjitportfolio.netlify.app/documents/Manjit-Resume-latest.pdf</loc>
 	<lastmod>2025-03-01</lastmod>
 	<changefreq>daily</changefreq>
 	<priority>1.0</priority>
