@@ -1,4 +1,3 @@
-User-agent: *
-Allow: /
-Sitemap:
-https://manjitsportfolio.netlify.app/sitemap.xml
+User-agent:*
+Allow:/
+Sitemap:https://manjitsportfolio.netlify.app/sitemap.xml
