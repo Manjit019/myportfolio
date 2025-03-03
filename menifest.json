@@ -3,8 +3,8 @@
     "short_name" : "Manjit's Portfolio",
     "start_url" : "/",
     "display" : "standalone",
-    "background_color"  :"#ffffff",
-    "theme_color" : "#000000",
+    "background_color"  :"#4c1d95",
+    "theme_color" : "#4c1d95",
     "icons":[
         {
             "src" : "./Icons/icon-192x192.png",
