@@ -1,11 +1,14 @@
 const CACHE_NAME = "portfolio-cache-v1";
 
 const urlToCache = [
-    "index.html",
-    "./assets/index-BL6gJ4kg.css",
-    "./assets/index-CdLibXxM.js",
-    "/Icons",
-    "/Images",
+    "/",
+    "/index.html",
+    "/style.css",
+    "/app.js",
+    "/Icons/icon-192x192.png",
+    "/Icons/icon-512x512.png",
+    "/Images/profile.jpg",
+    "favicon.ico",
     "menifest.json",
 ];
 
