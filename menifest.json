@@ -15,9 +15,9 @@
             "sizes" : "512x512",
             "type" : "image/png"
         },{
-            "src" : "./Images/profile.jpg",
+            "src" : "./Images/profile.png",
             "sizes":"any",
-            "type": "image/jpg"
+            "type": "image/png"
         }
     ]
 }
